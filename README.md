@@ -1,2 +1,1 @@
-# game_go
-myproject
+﻿小麦游戏社区项目 
